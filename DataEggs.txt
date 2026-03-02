@@ -1,0 +1,13 @@
+Intensity	Replicate	Eggs
+Light	R1	4
+Light	R2	3
+Light	R3	2
+Medium	R1	5
+Medium	R2	4
+Medium	R3	7
+Heavy	R1	16
+Heavy	R2	20
+Heavy	R3	24
+Control	R1	0
+Control	R2	1
+Control	R3	0
